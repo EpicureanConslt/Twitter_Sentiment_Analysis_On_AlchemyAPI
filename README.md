@@ -17,6 +17,6 @@ Demo: http://twitter-sentiment-analyser.mybluemix.net/
 
 ![Home Page Screenshot](git images/img1.png)   
 
-![Results Summary](git images/img3.png)   
+![Results Summary](git images/img2.png)   
 
-![Wordcloud Screenshot](git images/img4.png)   
+![Wordcloud Screenshot](git images/img3.png)   
